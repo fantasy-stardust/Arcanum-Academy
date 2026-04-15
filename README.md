@@ -83,8 +83,8 @@ Suggested heraldic palette:
 
 | Order | Focus | Description | Emblem |
 | --- | --- | --- | --- |
-| 📜 The Scrivenry | Language Arts and English 语文与英语 | A house of words, rhetoric, reading, and expression. Here, language is treated as both scholarship and spellcraft. 掌管文字、修辞、阅读与表达的学派。在这里，语言既是学术，也是魔法。 | A quill crossing an open scroll, sealed with red wax. 羽笔与展开卷轴交叉，其上覆以赤蜡封印。 |
-| 📐 The Enumeral Conclave | Mathematics, Physics, Chemistry 数学、物理、化学 | The domain of number, law, matter, and reason. It studies the hidden structure behind patterns, motion, and transformation. 研究数字、规律、物质与理性的学派，探索现象背后的结构、运动与变化。 | A brass compass enclosing a triangle of stars. 黄铜圆规包围着一枚星辉三角。 |
+| 📜 The Scriptorium | Language Arts and English 语文与英语 | A house of words, rhetoric, reading, and expression. Here, language is treated as both scholarship and spellcraft. 掌管文字、修辞、阅读与表达的学派。在这里，语言既是学术，也是魔法。 | A quill crossing an open scroll, sealed with red wax. 羽笔与展开卷轴交叉，其上覆以赤蜡封印。 |
+| 📐 The Numeromantic Conclave | Mathematics, Physics, Chemistry 数学、物理、化学 | The domain of number, law, matter, and reason. It studies the hidden structure behind patterns, motion, and transformation. 研究数字、规律、物质与理性的学派，探索现象背后的结构、运动与变化。 | A brass compass enclosing a triangle of stars. 黄铜圆规包围着一枚星辉三角。 |
 | 🌱 The Verdant Covenant | Biology 生物 | The study of life, growth, adaptation, and natural harmony. This branch listens to the logic written in living forms. 研究生命、生长、适应与自然秩序的分支，关注万物在生命形态中的规律。 | Antlers grown from intertwined vines around a seed. 藤蔓交缠而成的鹿角，中央托起种子。 |
 | 📖 The Eternal Archive | History and Geography 历史与地理 | A grand archive of time and world. It preserves memory, maps civilizations, and traces the paths of land, people, and eras. 掌管时间与世界的宏大档案馆，记录文明、地域、历史进程与人类足迹。 | An astrolabe laid over an hourglass and map lines. 星盘覆盖沙漏与地图经纬。 |
 | 🤖 The Artificers' Guild | Information Technology 信息技术 | A guild of makers, builders, and system-weavers. It transforms logic into tools, code, and crafted intelligence. 属于创造者与构筑者的公会，将逻辑转化为工具、代码与可运行的智能结构。 | A gear halo around a crystal core. 齿轮光环环绕一枚晶核。 |
@@ -93,8 +93,8 @@ Suggested heraldic palette:
 
 | Order | Maxim | Entrance Vow |
 | --- | --- | --- |
-| 📜 The Scrivenry | Let no word be empty, and no silence go unread. 言辞不可空泛，沉默亦须读懂。 | I vow to weigh every word before I cast it into the world, and to read with equal care what others leave behind. 我誓将每一句话在说出前反复斟酌，也将以同样的慎重阅读他人留下的痕迹。 |
-| 📐 The Enumeral Conclave | Measure clearly. Prove faithfully. Doubt precisely. 清晰度量，如实证明，精确怀疑。 | I vow to follow pattern without superstition, to test law without pride, and to accept truth whether elegant or severe. 我誓不以迷信追随规律，不以傲慢检验法则，并接受一切真实，无论其优雅或严峻。 |
+| 📜 The Scriptorium | Let no word be empty, and no silence go unread. 言辞不可空泛，沉默亦须读懂。 | I vow to weigh every word before I cast it into the world, and to read with equal care what others leave behind. 我誓将每一句话在说出前反复斟酌，也将以同样的慎重阅读他人留下的痕迹。 |
+| 📐 The Numeromantic Conclave | Measure clearly. Prove faithfully. Doubt precisely. 清晰度量，如实证明，精确怀疑。 | I vow to follow pattern without superstition, to test law without pride, and to accept truth whether elegant or severe. 我誓不以迷信追随规律，不以傲慢检验法则，并接受一切真实，无论其优雅或严峻。 |
 | 🌱 The Verdant Covenant | Guard what grows, and learn from what changes. 守护生长之物，倾听变化之理。 | I vow to study life without arrogance, to honor fragility without fear, and to remember that every living form is also a text. 我誓不以傲慢观察生命，不以恐惧面对脆弱，并铭记每一种生命形态本身也是一部可被阅读的典籍。 |
 | 📖 The Eternal Archive | Remember truly, and map the world with humility. 如实记忆，以谦卑描摹世界。 | I vow to preserve the past without ornament, to chart the world without haste, and to leave the record clearer than I found it. 我誓不以修饰歪曲过去，不以仓促描绘世界，并使我所接手的记录比原先更加清明。 |
 | 🤖 The Artificers' Guild | Forge with reason, and let craft answer thought. 以理性锻造，让工艺回应思想。 | I vow to build what can endure, to name every part with purpose, and to let invention serve understanding rather than vanity. 我誓建造经得起时间考验之物，令每一个构件皆有其意，并让发明服务于理解，而非虚荣。 |
@@ -103,8 +103,8 @@ Suggested heraldic palette:
 
 | Order | Heraldic Colors | Vestments |
 | --- | --- | --- |
-| 📜 The Scrivenry | Crimson, parchment ivory, and ink black 赤绯、纸页象牙白与墨黑 | Members of the Scrivenry favor layered robes with wide sleeves, wax-sealed sashes, and cuffs embroidered with short runic phrases. Formal readers wear mantle-cloaks lined like the margins of illuminated manuscripts. 书誊院成员多穿宽袖叠层长袍，配赤蜡封带，袖口常绣有短句符文。正式诵读场合则披带有手抄典籍边栏纹样的披肩。 |
-| 📐 The Enumeral Conclave | Brass gold, midnight blue, and chalk white 黄铜金、午夜蓝与粉笔白 | Their attire is sharply cut and geometric, often marked by measured pleats, metallic clasps, and star-gridded hems. Senior apprentices wear shoulder capes stitched with triangles, circles, and proof marks. 枚数议会的服饰线条克制而分明，常见规则褶线、金属扣件与星格下摆。高阶学徒的肩披上会缀有三角、圆环与证明记号。 |
+| 📜 The Scriptorium | Crimson, parchment ivory, and ink black 赤绯、纸页象牙白与墨黑 | Members of the Scriptorium favor layered robes with wide sleeves, wax-sealed sashes, and cuffs embroidered with short runic phrases. Formal readers wear mantle-cloaks lined like the margins of illuminated manuscripts. 典籍院成员多穿宽袖叠层长袍，配赤蜡封带，袖口常绣有短句符文。正式诵读场合则披带有手抄典籍边栏纹样的披肩。 |
+| 📐 The Numeromantic Conclave | Brass gold, midnight blue, and chalk white 黄铜金、午夜蓝与粉笔白 | Their attire is sharply cut and geometric, often marked by measured pleats, metallic clasps, and star-gridded hems. Senior apprentices wear shoulder capes stitched with triangles, circles, and proof marks. 数秘议会的服饰线条克制而分明，常见规则褶线、金属扣件与星格下摆。高阶学徒的肩披上会缀有三角、圆环与证明记号。 |
 | 🌱 The Verdant Covenant | Moss green, seed gold, and bark brown 苔绿、种籽金与树皮褐 | Their robes are softer and more mobile, made for garden paths and glasshouse study, with vine-knot cords, leaf-shaped clasps, and hems dyed in gradual shades like seasons turning. 翠契学派的衣着更柔软轻便，适合穿行温室与园圃，常配藤结束绳、叶形胸扣，以及如季节递变般渐染的衣摆。 |
 | 📖 The Eternal Archive | Dust blue, silver-gray, and map tan 尘蓝、银灰与舆图褐 | Archivists and cartographers wear long coats or scholar mantles with hidden inner pockets, narrow belts for instruments, and lining patterned like faint contour lines or old atlas borders. 永恒档案馆的成员多穿长外袍或学者披衣，内侧暗袋用于收纳文书与器具，腰间细带便于悬挂测绘工具，内衬常印有等高线或旧地图边框纹样。 |
 | 🤖 The Artificers' Guild | Iron gray, ember orange, and crystal cyan 铁灰、炉焰橙与晶青 | Guild attire combines workshop practicality with arcane precision: fitted coats, reinforced gloves, tool-belts, and luminous stitched seams that resemble circuit paths in low light. 造机公会的服饰兼具工坊实用性与奥术精密感，常见合身外套、加固手套、工具腰带，以及在暗处宛如回路的发光缝线。 |
@@ -144,8 +144,8 @@ flowchart TB
     Gate["Moon Gate<br/>月门"] --> Court["Starwell Court<br/>星井中庭"]
     Court --> Spire["Astral Spire<br/>星辉高塔"]
     Court --> Seal["Great Seal<br/>学院总徽"]
-    Court --> West["Western Wing<br/>The Scrivenry<br/>西翼文殿"]
-    Court --> East["Eastern Wing<br/>The Enumeral Conclave<br/>东翼理厅"]
+    Court --> West["Western Wing<br/>The Scriptorium<br/>西翼文殿"]
+    Court --> East["Eastern Wing<br/>The Numeromantic Conclave<br/>东翼理厅"]
     Court --> South["Southern Glasshouses<br/>The Verdant Covenant<br/>南庭温室"]
     Court --> North["Northern Vaults<br/>The Eternal Archive<br/>北境藏馆"]
     Court --> Below["Lower Descent<br/>下行阶井"]
@@ -175,13 +175,13 @@ At the heart of the academy stands the Lantern Court, a circular plaza where all
 
 ### Western Wing | 西翼文殿
 
-The Scrivenry occupies the western cloisters, where scriptoria, recitation halls, and chambers of rhetoric echo with ink, parchment, and spoken language.
+The Scriptorium occupies the western cloisters, where scriptoria, recitation halls, and chambers of rhetoric echo with ink, parchment, and spoken language.
 
 文字学派位于学院西翼长廊，誊写室、诵读厅与修辞厅散布其间，空气中仿佛始终留着墨香、纸页与回声。
 
 ### Eastern Wing | 东翼理厅
 
-The Enumeral Conclave resides in the eastern halls of instruments and formulae, where diagrams, measures, and transformations are studied with austere precision.
+The Numeromantic Conclave resides in the eastern halls of instruments and formulae, where diagrams, measures, and transformations are studied with austere precision.
 
 数理学派位于东翼的仪器厅与公式廊。那里充满刻度、图式与实验台，规律与变化在冷静而精确的秩序中被观察。
 
@@ -279,11 +279,11 @@ Arcanum Academy 当前结构如下：
 ```text
 arcanum-academy/
 │
-├── 📜 The Scrivenry/
+├── 📜 The Scriptorium/
 │   ├── runic-script/
 │   └── Lingua-Arcana/
 │
-├── 📐 The Enumeral Conclave/
+├── 📐 The Numeromantic Conclave/
 │   ├── arithmancy/
 │   ├── aethermancy/
 │   └── alchemy/
