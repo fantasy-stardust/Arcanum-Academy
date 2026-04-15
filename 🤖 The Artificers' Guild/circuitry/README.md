@@ -61,6 +61,10 @@ Apprentices in this hall usually begin by learning to recognize parts and read p
 4. Add sensors, switches, and control modules to create responsive devices 引入传感器、开关与控制模块，构成可响应装置
 5. Advance to fault tracing, signal stability, and integrated small-system design 进阶到故障排查、信号稳定性与小型系统整合设计
 
+For a hall-specific Stage I route, see [stage-1-beginner-tasks.md](stage-1-beginner-tasks.md).
+
+若需本殿专属的第一阶段任务路线，可参看 [stage-1-beginner-tasks.md](stage-1-beginner-tasks.md)。
+
 For cross-hall work, see [../design-vault/assembly-standards.md](../design-vault/assembly-standards.md), [../design-vault/handoff-note-example.md](../design-vault/handoff-note-example.md), and [../proving-chambers/test-protocols/circuit-validation.md](../proving-chambers/test-protocols/circuit-validation.md).
 
 若要参与跨分殿造物，可参看 [../design-vault/assembly-standards.md](../design-vault/assembly-standards.md)、[../design-vault/handoff-note-example.md](../design-vault/handoff-note-example.md) 与 [../proving-chambers/test-protocols/circuit-validation.md](../proving-chambers/test-protocols/circuit-validation.md)。

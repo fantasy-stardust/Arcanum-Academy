@@ -12,6 +12,10 @@ The Task Board does not replace hall study. It orders when an apprentice should 
 
 任务板并不取代分殿本学。它所做的，是安排学徒应在何时先稳住工位、何时学习分殿、何时跨越交接、何时尝试联合造物，以及何时将构造准备到足以命名入档。
 
+Stage I now divides into one shared threshold in this board and three hall-specific leaves kept inside the halls themselves.
+
+如今第一阶段分为两层：任务板中的共通门槛，以及分别存放在三座分殿内部的三份专属卷叶。
+
 ## Route of Passage | 通行路线
 
 ```mermaid
@@ -31,6 +35,14 @@ flowchart LR
 | [stage-2-cross-hall-paths.md](stage-2-cross-hall-paths.md) | How one hall's work becomes usable by another. 一殿之物如何被另一殿稳妥接用。 |
 | [stage-3-joint-trials.md](stage-3-joint-trials.md) | Which briefs to attempt, how to prove them, and what to watch first. 应尝试哪些简报、如何受试，以及优先警惕什么。 |
 | [quick-reference.md](quick-reference.md) | A direct map from route to scroll, proof, and warning. 从路线直达卷册、受试与警示的速查表。 |
+
+## Hall Deepening Leaves | 分殿深化卷叶
+
+| Hall | Leaf | Charge |
+| --- | --- | --- |
+| golemcraft | [../golemcraft/stage-1-beginner-tasks.md](../golemcraft/stage-1-beginner-tasks.md) | Stage I beginner tasks for naming, tracing, and testing logic work. 面向命名、追索与验证逻辑工作的第一阶段入门任务。 |
+| circuitry | [../circuitry/stage-1-beginner-tasks.md](../circuitry/stage-1-beginner-tasks.md) | Stage I beginner tasks for reading paths, measuring signal, and tracing faults. 面向读通路径、测得信号与追索故障的第一阶段入门任务。 |
+| mechanica | [../mechanica/stage-1-beginner-tasks.md](../mechanica/stage-1-beginner-tasks.md) | Stage I beginner tasks for force, fit, motion, and early endurance. 面向受力、配合、运动与初步耐久的第一阶段入门任务。 |
 
 ## First Gate | 第一门槛
 

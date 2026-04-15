@@ -16,11 +16,15 @@ Every apprentice begins by learning to keep one bench clear, one hall honest, an
 
 ## Hall Routes | 分殿路线
 
-| Hall | Begin with | First discipline | Leave this stage when... |
-| --- | --- | --- | --- |
-| golemcraft | [../golemcraft/README.md](../golemcraft/README.md) | Name states clearly and measure timing in repeatable windows. 清楚命名状态，并以可复现窗口测量时序。 | You can explain a control path without hand-waving. 你已能不靠含糊其辞解释控制路径。 |
-| circuitry | [../circuitry/README.md](../circuitry/README.md) | Distinguish power, signal, and sensing paths; write nominal values with tolerances. 区分供电、信号与传感路径，并写出带容差的标称值。 | You can hand a reading to another hall without translation by memory. 你已能把读数交给其他分殿而无需口头补译。 |
-| mechanica | [../mechanica/README.md](../mechanica/README.md) | Control alignment, travel, and load before seeking speed. 先控对位、行程与载荷，再求速度。 | You can describe where force is stored and where it should stop. 你已能说明力储存在何处、应停在何处。 |
+| Hall | Begin with | Deepen with | First discipline | Leave this stage when... |
+| --- | --- | --- | --- | --- |
+| golemcraft | [../golemcraft/README.md](../golemcraft/README.md) | [../golemcraft/stage-1-beginner-tasks.md](../golemcraft/stage-1-beginner-tasks.md) | Name states clearly and measure timing in repeatable windows. 清楚命名状态，并以可复现窗口测量时序。 | You can explain a control path without hand-waving. 你已能不靠含糊其辞解释控制路径。 |
+| circuitry | [../circuitry/README.md](../circuitry/README.md) | [../circuitry/stage-1-beginner-tasks.md](../circuitry/stage-1-beginner-tasks.md) | Distinguish power, signal, and sensing paths; write nominal values with tolerances. 区分供电、信号与传感路径，并写出带容差的标称值。 | You can hand a reading to another hall without translation by memory. 你已能把读数交给其他分殿而无需口头补译。 |
+| mechanica | [../mechanica/README.md](../mechanica/README.md) | [../mechanica/stage-1-beginner-tasks.md](../mechanica/stage-1-beginner-tasks.md) | Control alignment, travel, and load before seeking speed. 先控对位、行程与载荷，再求速度。 | You can describe where force is stored and where it should stop. 你已能说明力储存在何处、应停在何处。 |
+
+The hall-specific leaves hold the beginner task lists, watchfires, and advancement marks for each bench.
+
+三份分殿专属卷叶收纳各自的入门任务清单、警示灯与升阶标记。
 
 ## Minimum Outcomes | 最低出关结果
 

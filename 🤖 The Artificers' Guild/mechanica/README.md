@@ -61,6 +61,10 @@ Apprentices in this hall usually begin with force and form, then move through tr
 4. Build small moving models and observe friction, balance, and wear 制作小型运动模型并观察摩擦、平衡与磨损
 5. Advance to durable mechanism design, maintenance, and load-bearing analysis 进阶到耐久机构设计、维护与承载分析
 
+For a hall-specific Stage I route, see [stage-1-beginner-tasks.md](stage-1-beginner-tasks.md).
+
+若需本殿专属的第一阶段任务路线，可参看 [stage-1-beginner-tasks.md](stage-1-beginner-tasks.md)。
+
 For cross-hall work, see [../design-vault/assembly-standards.md](../design-vault/assembly-standards.md), [../design-vault/handoff-note-example.md](../design-vault/handoff-note-example.md), and [../proving-chambers/test-protocols/mechanical-endurance.md](../proving-chambers/test-protocols/mechanical-endurance.md).
 
 若要参与跨分殿造物，可参看 [../design-vault/assembly-standards.md](../design-vault/assembly-standards.md)、[../design-vault/handoff-note-example.md](../design-vault/handoff-note-example.md) 与 [../proving-chambers/test-protocols/mechanical-endurance.md](../proving-chambers/test-protocols/mechanical-endurance.md)。

@@ -65,6 +65,10 @@ Apprentices in this hall usually advance from clear syntax to structured problem
 4. Build small tools with files, automation, or simple interfaces 构建处理文件、自动化或简易界面的小工具
 5. Advance to system thinking, testing, and maintainable project structure 进阶到系统思维、测试与可维护项目结构
 
+For a hall-specific Stage I route, see [stage-1-beginner-tasks.md](stage-1-beginner-tasks.md).
+
+若需本殿专属的第一阶段任务路线，可参看 [stage-1-beginner-tasks.md](stage-1-beginner-tasks.md)。
+
 For cross-hall work, see [../design-vault/interface-template.md](../design-vault/interface-template.md), [../design-vault/lantern-gate-interface-sample.md](../design-vault/lantern-gate-interface-sample.md), and [../proving-chambers/test-protocols/golem-verification.md](../proving-chambers/test-protocols/golem-verification.md).
 
 若要参与跨分殿造物，可参看 [../design-vault/interface-template.md](../design-vault/interface-template.md)、[../design-vault/lantern-gate-interface-sample.md](../design-vault/lantern-gate-interface-sample.md) 与 [../proving-chambers/test-protocols/golem-verification.md](../proving-chambers/test-protocols/golem-verification.md)。
