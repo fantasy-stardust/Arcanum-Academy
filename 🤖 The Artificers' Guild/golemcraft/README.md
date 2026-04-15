@@ -37,11 +37,11 @@ Its heraldic colors follow the guild palette: iron gray, ember orange, and cryst
 - Bug reports, debugging traces, and fixes 问题报告、排错轨迹与修复记录
 - Architecture sketches and reusable snippets 结构草图与可复用片段
 
-## Forge Rite | 工坊仪式
+## Hall Rite | 分殿仪式
 
-Before a serious work is entered into the guild record, apprentices are taught the Rite of First Assembly. They must first name what is being built, declare its charge, and prove that it can endure error, revision, and use. In this hall, an unnamed mechanism is treated as unstable, and an untested one as unfinished.
+Before a serious work is entered into the guild record, apprentices are taught the Rite of First Assembly. At the Coding Benches they name the construct, at the System Racks they trace its dependencies and behavior, and only then is it sent onward toward the Proving Chambers. In this hall, an unnamed mechanism is treated as unstable, and an untested one as unfinished.
 
-在任何正式作品被记入公会档案之前，学徒都要先学习“初次装配仪”。他们必须先命名自己将要建造之物，说明它承担何种职责，并证明它经得起差错、修改与实际使用。在这座分殿里，未被命名的构造被视为不稳，未经验证的构造则不能算作完成。
+在任何正式作品被记入公会档案之前，学徒都要先学习“初次装配仪”。他们先在编程台前为构造命名，再于系统架旁追索其依赖与行为，之后才会将作品送往试验间。在这座分殿里，未被命名的构造被视为不稳，未经验证的构造则不能算作完成。
 
 Its traditional sequence is simple:
 
