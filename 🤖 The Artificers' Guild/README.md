@@ -67,6 +67,16 @@ flowchart TB
 	Proof -. Final trials .-> Mech
 ```
 
+### Paths of Collaboration | 协作路径说明
+
+The dotted paths on the map describe how the guild's three halls traditionally complete one another. Golemcraft sends outward the control logic that gives structure to behavior; Circuitry carries that logic into signal, sensing, and response; Mechanica gives those signals weight, motion, and material consequence in the world.
+
+图中的虚线路径说明了公会三座分殿如何彼此补完。golemcraft 向外送出赋予行为秩序的控制逻辑；circuitry 将这些逻辑转化为信号、传感与响应；mechanica 则让这些信号在现实中获得重量、运动与物质性的结果。
+
+Just as important is the returning path: mechanisms reveal friction, limits, and failure; those lessons travel back through circuitry as measurement and feedback, and return to golemcraft as revision, optimization, and clearer design. In this guild, craft is not treated as a straight line, but as a disciplined circuit of build, signal, motion, and return.
+
+同样重要的是那条回返路径：机构会暴露摩擦、极限与失效；这些经验经过 circuitry 化为测量与反馈，再回到 golemcraft，成为修订、优化与更清明的设计。在造机公会中，工艺从来不是一条单向直线，而是一道由构造、信号、运动与回返组成的严整回路。
+
 ## Present Disciplines | 现行分殿
 
 | Directory | Subject | Charge |

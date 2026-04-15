@@ -37,6 +37,14 @@ Its heraldic colors follow the guild palette: iron gray, ember orange, and cryst
 - Bug reports, debugging traces, and fixes 问题报告、排错轨迹与修复记录
 - Architecture sketches and reusable snippets 结构草图与可复用片段
 
+## Suggested Projects | 建议项目
+
+- A command-line notebook indexer 命令行笔记索引工具
+- A small turn-based logic game 小型回合制逻辑游戏
+- A study timer or task tracker 学习计时器或任务追踪器
+- A debugging diary built from failed experiments 由失败实验整理而成的调试日志器
+- A simple automation script for organizing files 用于整理文件的简易自动化脚本
+
 ## Hall Rite | 分殿仪式
 
 Before a serious work is entered into the guild record, apprentices are taught the Rite of First Assembly. At the Coding Benches they name the construct, at the System Racks they trace its dependencies and behavior, and only then is it sent onward toward the Proving Chambers. In this hall, an unnamed mechanism is treated as unstable, and an untested one as unfinished.
