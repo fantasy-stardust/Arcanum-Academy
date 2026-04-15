@@ -116,7 +116,7 @@ Suggested heraldic palette:
 | Directory | Subject | Meaning |
 | --- | --- | --- |
 | runic-script | 语文 | The study of native language, literature, and written expression. 本族语言、文学与书面表达之学。 |
-| elder-speech | 英语 | The learning of English as the language of wider worlds and older wisdom. 作为通向更广阔世界之语言的英语学习。 |
+| Lingua-Arcana | 英语 | The learning of English as the language of wider worlds and older wisdom. 作为通向更广阔世界之语言的英语学习。 |
 | arithmancy | 数学 | Number, structure, proof, and abstraction. 数量、结构、证明与抽象思维。 |
 | aethermancy | 物理 | Motion, force, energy, and the laws of the world. 运动、力、能量与世界运行规律。 |
 | alchemy | 化学 | Matter, reaction, composition, and transformation. 物质、反应、组成与变化。 |
@@ -281,7 +281,7 @@ arcanum-academy/
 │
 ├── 📜 The Scrivenry/
 │   ├── runic-script/
-│   └── elder-speech/
+│   └── Lingua-Arcana/
 │
 ├── 📐 The Enumeral Conclave/
 │   ├── arithmancy/

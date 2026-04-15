@@ -1,4 +1,4 @@
-# elder-speech | 英语
+# Lingua-Arcana | 英语
 
 This is the hall of the farther tongue: a language that opens roads beyond one's first horizon.
 
@@ -8,7 +8,7 @@ This is the hall of the farther tongue: a language that opens roads beyond one's
 
 ## Hall Charge | 学科之责
 
-Elder Speech studies English as a bridge to wider worlds of reading, listening, speaking, and writing. Its craft is not imitation alone, but the patient learning of another rhythm of thought.
+Lingua-Arcana studies English as a bridge to wider worlds of reading, listening, speaking, and writing. Its craft is not imitation alone, but the patient learning of another rhythm of thought.
 
 英语之学被视为通向更广阔世界的桥梁，涵盖阅读、听力、口语与写作。它并不仅仅是模仿，更是耐心学习另一种思维节律的过程。
 
