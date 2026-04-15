@@ -1,0 +1,78 @@
+% !TeX program = xelatex
+\documentclass[UTF8,a4paper,12pt]{ctexart}
+\usepackage{geometry}
+\usepackage{listings}
+\usepackage{xcolor}
+
+\geometry{a4paper, top=0.4in, bottom=1in, left=1in, right=1in}
+
+\lstset{
+    language=C++,
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{blue},
+    commentstyle=\color{gray},
+    stringstyle=\color{orange},
+    numbers=left,
+    numberstyle=\tiny\color{gray},
+    frame=single,
+    breaklines=true
+}
+
+\title{四则运算}
+\author{GESP 2级}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{四则运算 (Arithmetic)}
+
+\subsection*{整数运算 (Integer Operations)}
+
+\begin{lstlisting}
+int a = 10, b = 3;
+cout << a + b << endl;  // 13（加法）
+cout << a - b << endl;  // 7（减法）
+cout << a * b << endl;  // 30（乘法）
+cout << a / b << endl;  // 3（整数除法）
+cout << a % b << endl;  // 1（取余）
+\end{lstlisting}
+
+\subsection*{浮点数运算 (Floating-point Operations)}
+
+\begin{lstlisting}
+double x = 10.5, y = 2.5;
+cout << x + y << endl;  // 13.0（加法）
+cout << x - y << endl;  // 8.0（减法）
+cout << x * y << endl;  // 26.25（乘法）
+cout << x / y << endl;  // 4.2（浮点除法）
+\end{lstlisting}
+
+\section*{词汇表 (Glossary)}
+
+\begin{center}
+\begin{tabular}{|l|l|p{10cm}|}
+\hline
+\textbf{英文名词} & \textbf{中文名词} & \textbf{解释} \\
+\hline
+Integer & 整数 & 不包含小数部分的数字，如 10、-5、0。在C++中用 \texttt{int} 类型表示。 \\
+\hline
+Floating-point & 浮点数 & 包含小数部分的数字，如 10.5、3.14。在C++中用 \texttt{double} 或 \texttt{float} 表示。 \\
+\hline
+Addition & 加法 (+) & 两个数相加，求和。 \\
+\hline
+Subtraction & 减法 (-) & 两个数相减，求差。 \\
+\hline
+Multiplication & 乘法 (*) & 两个数相乘，求积。 \\
+\hline
+Division & 除法 (/) & 两个数相除，求商。整数除法会截断小数部分。 \\
+\hline
+Modulo & 取余 (\%) & 求两个整数相除后的余数，仅适用于整数类型。 \\
+\hline
+Divisibility & 整除 & 当 \texttt{a \% b == 0} 时，称 a 能被 b 整除。 \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}

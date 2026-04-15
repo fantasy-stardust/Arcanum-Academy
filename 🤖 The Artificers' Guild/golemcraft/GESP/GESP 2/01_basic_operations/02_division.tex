@@ -1,0 +1,66 @@
+% !TeX program = xelatex
+\documentclass[UTF8,a4paper,12pt]{ctexart}
+\usepackage{geometry}
+\usepackage{listings}
+\usepackage{xcolor}
+
+\geometry{a4paper, top=0.4in, bottom=1in, left=1in, right=1in}
+
+\lstset{
+    language=C++,
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{blue},
+    commentstyle=\color{gray},
+    stringstyle=\color{orange},
+    numbers=left,
+    numberstyle=\tiny\color{gray},
+    frame=single,
+    breaklines=true
+}
+
+\title{整数除法与浮点除法}
+\author{GESP 2级}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{整数除法与浮点除法 \\ (Integer vs Floating-point Division)}
+
+\begin{lstlisting}
+// 整数除法
+int x = 7, y = 2;
+cout << x / y << endl;  // 3（不是3.5）
+
+// 浮点除法
+// 方法1：C风格类型转换 (double)x / y
+double r1 = (double)x / y;  // 3.5
+// 方法2：使用浮点数字面量 x / 2.0
+double r2 = x / 2.0;  // 3.5
+// 方法3：C++风格类型转换 static_cast<double>(x) / y
+double r3 = static_cast<double>(x) / y;  // 3.5
+// 方法4：函数式类型转换 double(x) / y
+double r4 = double(x) / y;  // 3.5
+cout << r1 << " " << r2 << " " << r3 << " " << r4 << endl;
+\end{lstlisting}
+
+\section*{词汇表 (Glossary)}
+
+\begin{center}
+\begin{tabular}{|l|l|p{10cm}|}
+\hline
+\textbf{英文名词} & \textbf{中文名词} & \textbf{解释} \\
+\hline
+Integer Division & 整数除法 & 两个整数相除，结果舍去小数部分，只保留整数部分。如 7 / 2 = 3。 \\
+\hline
+Floating-point Division & 浮点除法 & 至少一个操作数为浮点数，结果为带小数的精确值。如 7.0 / 2 = 3.5。 \\
+\hline
+Type Casting & 类型转换 & 将一种数据类型转换为另一种，如 \texttt{(double)x} 将整数 x 转为浮点数。 \\
+\hline
+Truncation & 截断 & 去掉小数部分，只保留整数部分。C++整数除法会向零截断。 \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}

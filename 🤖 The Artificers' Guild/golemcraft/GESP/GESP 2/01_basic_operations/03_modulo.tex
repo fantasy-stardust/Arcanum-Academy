@@ -1,0 +1,70 @@
+% !TeX program = xelatex
+\documentclass[UTF8,a4paper,12pt]{ctexart}
+\usepackage{geometry}
+\usepackage{listings}
+\usepackage{xcolor}
+
+\geometry{a4paper, top=0.4in, bottom=1in, left=1in, right=1in}
+
+\lstset{
+    language=C++,
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{blue},
+    commentstyle=\color{gray},
+    stringstyle=\color{orange},
+    numbers=left,
+    numberstyle=\tiny\color{gray},
+    frame=single,
+    breaklines=true
+}
+
+\title{取余运算的应用}
+\author{GESP 2级}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{取余运算的应用 \\ (Modulo Operation)}
+
+\begin{lstlisting}
+// 判断奇偶
+if (n % 2 == 0) cout << "偶数";
+else cout << "奇数";
+
+// 取个位、十位、百位
+int num = 123;
+int ones = num % 10;            // 3（个位）
+int tens = num / 10 % 10;      // 2（十位）
+int hundreds = num / 100 % 10;     // 1（百位）
+
+// 判断整除
+if (a % b == 0) cout << "a能被b整除";
+
+// 时钟问题：现在是10点，过5小时后是几点？
+int current = 10;
+int hours = 5;
+int result = (current + hours) % 12;  // 3点（下午）
+int hour24 = (current + hours) % 24;   //24小时制 15点
+\end{lstlisting}
+
+\section*{词汇表 (Glossary)}
+
+\begin{center}
+\begin{tabular}{|l|l|p{10cm}|}
+\hline
+\textbf{英文名词} & \textbf{中文名词} & \textbf{解释} \\
+\hline
+Modulo & 取余 (\%) & 求两个整数相除后的余数。如 10 \% 3 = 1，余数为1。 \\
+\hline
+Parity Check & 奇偶判断 & 通过 \texttt{n \% 2} 判断奇偶，余数为0是偶数，为1是奇数。 \\
+\hline
+Digit Extraction & 数位提取 & 通过 \texttt{num \% 10} 取个位，\texttt{num / 10 \% 10} 取十位，\texttt{num / 100 \% 10} 取百位。 \\
+\hline
+Divisibility & 整除 & 当 \texttt{a \% b == 0} 时，称 a 能被 b 整除，余数为0。 \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
