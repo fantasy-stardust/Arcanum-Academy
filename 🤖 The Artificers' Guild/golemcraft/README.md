@@ -37,6 +37,14 @@ Its heraldic colors follow the guild palette: iron gray, ember orange, and cryst
 - Bug reports, debugging traces, and fixes 问题报告、排错轨迹与修复记录
 - Architecture sketches and reusable snippets 结构草图与可复用片段
 
+## Required Tools | 常用器具
+
+- A code editor and terminal editor or IDE 与终端配合使用的代码编辑器或集成开发环境
+- A command-line shell for running and testing programs 用于运行与测试程序的命令行终端
+- Version control tools such as Git 用于记录版本变化的工具，如 Git
+- Debuggers, linters, or test runners 调试器、代码检查工具或测试运行器
+- Notebook pages for logic sketches and architecture drafts 用于记录逻辑草图与结构草案的笔记页
+
 ## Suggested Projects | 建议项目
 
 - A command-line notebook indexer 命令行笔记索引工具

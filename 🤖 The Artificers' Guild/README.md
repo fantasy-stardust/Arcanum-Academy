@@ -77,6 +77,28 @@ Just as important is the returning path: mechanisms reveal friction, limits, and
 
 同样重要的是那条回返路径：机构会暴露摩擦、极限与失效；这些经验经过 circuitry 化为测量与反馈，再回到 golemcraft，成为修订、优化与更清明的设计。在造机公会中，工艺从来不是一条单向直线，而是一道由构造、信号、运动与回返组成的严整回路。
 
+## Apprentice Progression | 公会学徒进阶图
+
+The progression below shows the guild's common route from first handling of tools to integrated cross-hall making.
+
+下图展示公会学徒从初识器具到跨分殿综合构造的常见进阶路线。
+
+```mermaid
+flowchart LR
+	Entry["First Handling<br/>初识器具"] --> Safety["Tool Discipline<br/>器具规训"]
+	Safety --> Choice["Chosen Bench<br/>定选工位"]
+	Choice --> Code["Golemcraft<br/>代码与系统"]
+	Choice --> Signal["Circuitry<br/>电路与信号"]
+	Choice --> Motion["Mechanica<br/>机构与运动"]
+	Code --> Practice["Hall Practice<br/>分殿练习"]
+	Signal --> Practice
+	Motion --> Practice
+	Practice --> Trial["Proving Chambers<br/>试验间受试"]
+	Trial --> Joint["Joint Construct<br/>联合造物"]
+	Joint --> Archive["Guild Record<br/>公会入档"]
+	Archive --> Artificer["Apprentice Artificer<br/>进阶造机学徒"]
+```
+
 ## Present Disciplines | 现行分殿
 
 | Directory | Subject | Charge |
