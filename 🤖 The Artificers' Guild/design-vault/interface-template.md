@@ -27,6 +27,7 @@ Use this template when one hall's work must be handed to another.
 - Normal operating range 正常工作范围
 - Failure conditions 失效条件
 - Safety notes 安全说明
+- Measurement notes 测量说明
 
 ## Proof Before Handoff | 交接前证明
 
@@ -45,3 +46,7 @@ Use this template when one hall's work must be handed to another.
 Can the receiving hall understand and use this without guessing?
 
 接收分殿是否可以在不靠猜测的情况下理解并使用它？
+
+If not, revise the safety notes with [safety-discipline.md](safety-discipline.md) and the declared readings with [measurement-units.md](measurement-units.md).
+
+若答案是否定的，就应结合 [safety-discipline.md](safety-discipline.md) 修订安全说明，并结合 [measurement-units.md](measurement-units.md) 修订已声明读数。

@@ -101,15 +101,17 @@ flowchart LR
 
 ## Guild Structures Beyond the Halls | 分殿之外的公会结构
 
-The halls teach distinct crafts, but the guild's deeper order is kept in three shared spaces: the Design Vault for standards, the Proving Chambers for proof and record, and Joint Constructs for integrated making.
+The halls teach distinct crafts, but the guild's deeper order is kept in five shared spaces: the Design Vault for standards, the Proving Chambers for proof and record, Joint Constructs for integrated making, the Task Board for study routes, and the Construct Catalog for named exemplars.
 
-三座分殿分别教授不同工艺，而公会更深一层的秩序则保存在另外三处共用空间中：Design Vault 负责共用规范，Proving Chambers 负责受试与入档，Joint Constructs 负责联合造物。
+三座分殿分别教授不同工艺，而公会更深一层的秩序则保存在另外五处共用空间中：Design Vault 负责共用规范，Proving Chambers 负责受试与入档，Joint Constructs 负责联合造物，Task Board 负责学习路线，Construct Catalog 负责典型范本。
 
 | Directory | Charge |
 | --- | --- |
 | [design-vault/README.md](design-vault/README.md) | Shared conventions for names, interfaces, and assembly across halls. 跨分殿命名、接口与装配规范的共用密库。 |
 | [proving-chambers/README.md](proving-chambers/README.md) | Tests, proof protocols, failure records, and rules of entry into the guild record. 试验规程、失败记录与公会入档规则。 |
 | [joint-constructs/README.md](joint-constructs/README.md) | Cross-hall project templates, integration guidance, and example builds. 跨分殿项目模板、整合说明与联合造物案例。 |
+| [task-board/README.md](task-board/README.md) | Sequenced study routes that turn the guild's scattered scrolls into walkable paths. 将散卷编织成可行学习路线的公会任务板。 |
+| [construct-catalog/README.md](construct-catalog/README.md) | A first catalog of named constructs, planned builds, and instructive failures. 收纳典型造物、待造项目与教训案例的首卷图鉴。 |
 
 ## Present Disciplines | 现行分殿
 

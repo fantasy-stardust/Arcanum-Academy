@@ -21,7 +21,13 @@ These standards apply when a construct draws work from more than one hall.
 - Participating halls 参与分殿
 - Interfaces and handoff points 接口与交接点
 - Safety concerns 安全注意事项
+- Measurement basis 测量基准
+- Borrowed tool custody 借用器具保管
 - Test status 受试状态
+
+Safety concerns should follow [safety-discipline.md](safety-discipline.md), and shared measurements should follow [measurement-units.md](measurement-units.md).
+
+安全注意事项应遵循 [safety-discipline.md](safety-discipline.md)，共用测量写法应遵循 [measurement-units.md](measurement-units.md)。
 
 ## Minimum Integration Check | 最低整合检查
 

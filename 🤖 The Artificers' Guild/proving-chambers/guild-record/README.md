@@ -19,6 +19,7 @@ The guild record preserves what has been judged clear enough to teach from, reus
 | --- | --- |
 | [failure-cases/README.md](failure-cases/README.md) | Failure records that still teach. 仍具教学价值的失败记录。 |
 | [lessons-learned.md](lessons-learned.md) | Cross-hall lessons extracted from prior builds. 从过往构造中提炼出的跨分殿经验。 |
+| [project-record-format.md](project-record-format.md) | The required structure for preserving a project clearly enough to prove, revise, and archive. 为项目进入受试、修订与归档所设的标准记录结构。 |
 | [lantern-gate-sentinel-proof-r1.md](lantern-gate-sentinel-proof-r1.md) | A completed proof record showing what a passing joint trial can look like. 一份完整通过记录，展示联合受试通过后的文档形态。 |
 
 ## Rule of Entry | 入档规则
@@ -26,3 +27,7 @@ The guild record preserves what has been judged clear enough to teach from, reus
 A construct enters the guild record only when its purpose, interfaces, proof, and revision history can all be read without relying on memory alone.
 
 只有当构造物的用途、接口、验证与修订历史都能在不依赖口头记忆的情况下被读取时，它才可入档。
+
+The format expected for that chain is described in [project-record-format.md](project-record-format.md).
+
+这条记录链所应遵循的格式，见 [project-record-format.md](project-record-format.md)。
