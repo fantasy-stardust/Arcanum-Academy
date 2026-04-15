@@ -17,16 +17,23 @@ This leaf turns the hall's study path into a first set of bench works. Follow it
 - [../task-board/stage-1-foundations.md](../task-board/stage-1-foundations.md)
 - [../design-vault/safety-discipline.md](../design-vault/safety-discipline.md)
 - [../design-vault/measurement-units.md](../design-vault/measurement-units.md)
+- [stage-1-practice-templates.md](stage-1-practice-templates.md)
 
 ## Beginner Task Sequence | 入门任务顺序
 
-| Task | Working charge | Record to keep |
-| --- | --- | --- |
-| 1. Map one force path 描出一条力路 | Take a simple mechanism or object and mark where force enters, where it is resisted, and where it should stop. 选一件简单机构或物件，标出力量从何进入、于何受阻、应停于何处。 | One force sketch with three short observations. 一张受力草图与三条简短观察。 |
-| 2. Measure one fit 量定一处配合 | Measure a gap, hole, axle, or joint and write its baseline and acceptable range. 测量一处间隙、孔位、轴或接头，并写下其基线与可接受范围。 | One fit record with unit, baseline, and tolerance. 一份带单位、基线与容差的配合记录。 |
-| 3. Predict one transmission 预判一次传动 | Use a lever, gear pair, or pulley path to predict how force or speed will change before testing. 选用杠杆、齿轮对或滑轮路径，在实测前先预测力量或速度如何变化。 | One note comparing predicted and observed change. 一份对照预测与实测变化的记录。 |
-| 4. Trace one moving linkage 追画一段运动连杆 | Assemble or sketch a small linkage and record how one part's motion travels into another. 装起或绘出一段小连杆，并记录一个构件的运动如何传入另一个构件。 | One motion note naming travel, stop point, and likely strain. 一份写明行程、止位与可能受力偏差的运动记录。 |
-| 5. Keep one balance and wear log 留下一份平衡与磨损日志 | Run a small model through repeated motion and note where balance drifts, friction grows, or surfaces begin to wear. 让一个小模型重复运动，并记录平衡偏移、摩擦加剧或表面磨损从何处显现。 | One short endurance note naming the first sign of decline. 一份写明首个衰退征兆的短耐久记录。 |
+| Task | Working charge | Record to keep | Minimum format |
+| --- | --- | --- | --- |
+| 1. Map one force path 描出一条力路 | Take a simple mechanism or object and mark where force enters, where it is resisted, and where it should stop. 选一件简单机构或物件，标出力量从何进入、于何受阻、应停于何处。 | One force sketch with three short observations. 一张受力草图与三条简短观察。 | Template one in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板一。 |
+| 2. Measure one fit 量定一处配合 | Measure a gap, hole, axle, or joint and write its baseline and acceptable range. 测量一处间隙、孔位、轴或接头，并写下其基线与可接受范围。 | One fit record with unit, baseline, and tolerance. 一份带单位、基线与容差的配合记录。 | Template two in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板二。 |
+| 3. Predict one transmission 预判一次传动 | Use a lever, gear pair, or pulley path to predict how force or speed will change before testing. 选用杠杆、齿轮对或滑轮路径，在实测前先预测力量或速度如何变化。 | One note comparing predicted and observed change. 一份对照预测与实测变化的记录。 | Template three in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板三。 |
+| 4. Trace one moving linkage 追画一段运动连杆 | Assemble or sketch a small linkage and record how one part's motion travels into another. 装起或绘出一段小连杆，并记录一个构件的运动如何传入另一个构件。 | One motion note naming travel, stop point, and likely strain. 一份写明行程、止位与可能受力偏差的运动记录。 | Template four in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板四。 |
+| 5. Keep one balance and wear log 留下一份平衡与磨损日志 | Run a small model through repeated motion and note where balance drifts, friction grows, or surfaces begin to wear. 让一个小模型重复运动，并记录平衡偏移、摩擦加剧或表面磨损从何处显现。 | One short endurance note naming the first sign of decline. 一份写明首个衰退征兆的短耐久记录。 | Template five in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板五。 |
+
+## Suggested Output Templates | 建议练习产物模板
+
+Use the matching numbered template in [stage-1-practice-templates.md](stage-1-practice-templates.md). The first record of a mechanism should be narrow but true: enough to reread the motion, not enough to bury it under ornament.
+
+请配套使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中同编号的模板。机构的第一份记录应当窄而真实：足以复读那段运动，却不至于被装饰掩埋。
 
 ## Minimum Output | 最低产出
 

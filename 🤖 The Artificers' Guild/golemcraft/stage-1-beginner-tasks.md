@@ -17,16 +17,23 @@ This leaf turns the hall's study path into a first set of workable tasks. Follow
 - [../task-board/stage-1-foundations.md](../task-board/stage-1-foundations.md)
 - [../design-vault/safety-discipline.md](../design-vault/safety-discipline.md)
 - [../design-vault/measurement-units.md](../design-vault/measurement-units.md)
+- [stage-1-practice-templates.md](stage-1-practice-templates.md)
 
 ## Beginner Task Sequence | 入门任务顺序
 
-| Task | Working charge | Record to keep |
-| --- | --- | --- |
-| 1. Name a state chain 命名一条状态链 | Describe a tiny routine with 3-5 named states and state what causes each transition. 用 3-5 个具名状态描述一个小流程，并写明每次转移由何触发。 | One state list with transition conditions and one suspected failure threshold. 一份状态表，以及一条可疑失效阈值。 |
-| 2. Build a repeatable count 构造一次可复现计次 | Write a small program that performs a repeated action and records the count or time over three runs. 写一个小程序，让它执行重复动作，并在三次运行中记录计数或时长。 | A short run log showing repeated behavior. 一份展示重复行为的短日志。 |
-| 3. Trace a fault by logging 以日志追索一处故障 | Take a small bug or wrong output, add logging without changing the intended logic, then trace where expectation and result part ways. 面对一个小 bug 或错误输出，在不改逻辑意图的前提下补日志，再追到预期与结果分离之处。 | One written failure trace naming the first visible symptom. 一份写明首发症状的故障追索记录。 |
-| 4. Write a function contract 写下一份函数契约 | Extract a small function, name its input, output, and one case in which it should fail safely. 抽出一个小函数，写明其输入、输出，以及一条应当安全失败的情况。 | A short contract note plus one safe-failure example. 一份简短契约说明，加一条例行安全失败样例。 |
-| 5. Build a testable utility 构造一件可测试的小工具 | Create a small utility such as a formatter, timer, or file sorter, then test it with at least three clear cases. 制作一件小型工具，如格式整理器、计时器或文件归类器，并以至少三条清晰用例验证。 | A test record showing what each case proves. 一份说明各测试证明何事的验证记录。 |
+| Task | Working charge | Record to keep | Minimum format |
+| --- | --- | --- | --- |
+| 1. Name a state chain 命名一条状态链 | Describe a tiny routine with 3-5 named states and state what causes each transition. 用 3-5 个具名状态描述一个小流程，并写明每次转移由何触发。 | One state list with transition conditions and one suspected failure threshold. 一份状态表，以及一条可疑失效阈值。 | Template one in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板一。 |
+| 2. Build a repeatable count 构造一次可复现计次 | Write a small program that performs a repeated action and records the count or time over three runs. 写一个小程序，让它执行重复动作，并在三次运行中记录计数或时长。 | A short run log showing repeated behavior. 一份展示重复行为的短日志。 | Template two in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板二。 |
+| 3. Trace a fault by logging 以日志追索一处故障 | Take a small bug or wrong output, add logging without changing the intended logic, then trace where expectation and result part ways. 面对一个小 bug 或错误输出，在不改逻辑意图的前提下补日志，再追到预期与结果分离之处。 | One written failure trace naming the first visible symptom. 一份写明首发症状的故障追索记录。 | Template three in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板三。 |
+| 4. Write a function contract 写下一份函数契约 | Extract a small function, name its input, output, and one case in which it should fail safely. 抽出一个小函数，写明其输入、输出，以及一条应当安全失败的情况。 | A short contract note plus one safe-failure example. 一份简短契约说明，加一条例行安全失败样例。 | Template four in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板四。 |
+| 5. Build a testable utility 构造一件可测试的小工具 | Create a small utility such as a formatter, timer, or file sorter, then test it with at least three clear cases. 制作一件小型工具，如格式整理器、计时器或文件归类器，并以至少三条清晰用例验证。 | A test record showing what each case proves. 一份说明各测试证明何事的验证记录。 | Template five in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板五。 |
+
+## Suggested Output Templates | 建议练习产物模板
+
+Use the matching numbered template in [stage-1-practice-templates.md](stage-1-practice-templates.md). The hall does not ask for a grand report at this stage, only a record complete enough that another apprentice could reread the work without guessing.
+
+请配套使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中同编号的模板。本阶段并不要求宏大报告，只要求记录完整到足以让另一位学徒复读而不必猜测。
 
 ## Minimum Output | 最低产出
 

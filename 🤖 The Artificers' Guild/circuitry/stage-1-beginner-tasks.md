@@ -17,16 +17,23 @@ This leaf takes the hall's study path and turns it into a first bench sequence. 
 - [../task-board/stage-1-foundations.md](../task-board/stage-1-foundations.md)
 - [../design-vault/safety-discipline.md](../design-vault/safety-discipline.md)
 - [../design-vault/measurement-units.md](../design-vault/measurement-units.md)
+- [stage-1-practice-templates.md](stage-1-practice-templates.md)
 
 ## Beginner Task Sequence | 入门任务顺序
 
-| Task | Working charge | Record to keep |
-| --- | --- | --- |
-| 1. Bind a part binder 立一册元件簿 | Identify several common components by name, symbol, and basic handling rule. 识别若干常见元件的名称、符号与基础操作规则。 | One short note listing symbol, nominal value, and handling caution. 一份列出符号、标称值与操作注意的短记录。 |
-| 2. Light one clear path 点亮一条清楚路径 | Build a simple breadboard circuit that carries power through a visible path and measure two points on it. 搭一条简单面包板回路，让供电沿可见路径流过，并测量其中两个点。 | One path sketch plus measured values with units. 一张路径草图，以及带单位的测量值。 |
-| 3. Read a sensor trace 读出一条传感痕迹 | Change one input such as light, touch, or temperature and record how the signal changes. 改变一项输入，例如光、触碰或温度，并记录信号如何变化。 | One reading range with baseline and expected drift. 一条写明基线与预期漂移的读数范围。 |
-| 4. Find the broken loop 找出一处断链 | Inspect a non-working circuit and trace where power or signal ceases to behave as declared. 检查一条失效回路，追出供电或信号从何处开始不再符合声明。 | One fault record naming the first broken point. 一份写明首个断裂点的故障记录。 |
-| 5. Write the first handoff note 写下首份交接说明 | Describe one sensor or control signal so another hall could use it without translating by memory. 把一条传感或控制信号写成另一座分殿无需口头补译便可接用的说明。 | One short interface note with signal range and trigger meaning. 一份写明信号范围与触发意义的简短接口说明。 |
+| Task | Working charge | Record to keep | Minimum format |
+| --- | --- | --- | --- |
+| 1. Bind a part binder 立一册元件簿 | Identify several common components by name, symbol, and basic handling rule. 识别若干常见元件的名称、符号与基础操作规则。 | One short note listing symbol, nominal value, and handling caution. 一份列出符号、标称值与操作注意的短记录。 | Template one in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板一。 |
+| 2. Light one clear path 点亮一条清楚路径 | Build a simple breadboard circuit that carries power through a visible path and measure two points on it. 搭一条简单面包板回路，让供电沿可见路径流过，并测量其中两个点。 | One path sketch plus measured values with units. 一张路径草图，以及带单位的测量值。 | Template two in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板二。 |
+| 3. Read a sensor trace 读出一条传感痕迹 | Change one input such as light, touch, or temperature and record how the signal changes. 改变一项输入，例如光、触碰或温度，并记录信号如何变化。 | One reading range with baseline and expected drift. 一条写明基线与预期漂移的读数范围。 | Template three in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板三。 |
+| 4. Find the broken loop 找出一处断链 | Inspect a non-working circuit and trace where power or signal ceases to behave as declared. 检查一条失效回路，追出供电或信号从何处开始不再符合声明。 | One fault record naming the first broken point. 一份写明首个断裂点的故障记录。 | Template four in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板四。 |
+| 5. Write the first handoff note 写下首份交接说明 | Describe one sensor or control signal so another hall could use it without translating by memory. 把一条传感或控制信号写成另一座分殿无需口头补译便可接用的说明。 | One short interface note with signal range and trigger meaning. 一份写明信号范围与触发意义的简短接口说明。 | Template five in [stage-1-practice-templates.md](stage-1-practice-templates.md). 使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中的模板五。 |
+
+## Suggested Output Templates | 建议练习产物模板
+
+Use the matching numbered template in [stage-1-practice-templates.md](stage-1-practice-templates.md). At this stage, a short readable trace is better than a broad but uncertain report.
+
+请配套使用 [stage-1-practice-templates.md](stage-1-practice-templates.md) 中同编号的模板。在本阶段，一份简短而可读的痕迹，要胜过一份宽泛却不确定的报告。
 
 ## Minimum Output | 最低产出
 
