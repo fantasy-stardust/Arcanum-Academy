@@ -1,4 +1,4 @@
-# runic-tongue | 语文
+# runic-script | 语文
 
 The first rune any student learns is the language already living in the mouth and memory.
 
@@ -8,7 +8,7 @@ The first rune any student learns is the language already living in the mouth an
 
 ## Hall Charge | 学科之责
 
-Runic Tongue is the study of native language, literature, reading, rhetoric, and written expression. In this hall, texts are not treated as dead pages but as vessels of voice, history, emotion, and form.
+Runic Script is the study of native language, literature, reading, rhetoric, and written expression. In this hall, texts are not treated as dead pages but as vessels of voice, history, emotion, and form.
 
 语文之学关注母语、文学、阅读、修辞与书面表达。在这座分殿中，文本并不是静止的纸页，而是承载声音、历史、情感与结构的器皿。
 
