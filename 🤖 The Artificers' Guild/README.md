@@ -36,6 +36,37 @@ No serious mechanism is accepted into the guild record without passing through n
 
 任何严肃的构造，若未经过命名、装配与验证三道程序，便不会被正式收入公会档案。
 
+### Inner Map | 内部结构图
+
+The map below presents the lower forgeworks as a shared workshop complex. Solid lines mark direct passage, while dotted lines trace the guild's customary paths of collaboration between code, signal, and mechanism.
+
+下图将下层工坊描绘为一座彼此联通的构造群。实线表示直接通行，虚线表示代码、信号与机械之间的传统协作路径。
+
+```mermaid
+flowchart TB
+	Descent["Lower Descent<br/>下行阶井"] --> Court["Forgewell Court<br/>炉心中庭"]
+	Court --> Vault["Design Vault<br/>设计密库"]
+	Court --> Proof["Proving Chambers<br/>试验间"]
+	Court --> Golem["Golemcraft<br/>信息技术分殿"]
+	Court --> Circuit["Circuitry<br/>电子分殿"]
+	Court --> Mech["Mechanica<br/>机械分殿"]
+	Golem --> Benches["Coding Benches<br/>编程台"]
+	Golem --> Racks["System Racks<br/>系统架"]
+	Circuit --> Signal["Signal Rooms<br/>回路室"]
+	Circuit --> Solder["Soldering Tables<br/>焊接台"]
+	Mech --> Engines["Engine Bays<br/>锻机工位"]
+	Mech --> Frames["Assembly Frames<br/>装配架"]
+	Vault -. Archived designs .-> Golem
+	Vault -. Circuit plans .-> Circuit
+	Vault -. Mechanical drafts .-> Mech
+	Golem -. Control logic .-> Circuit
+	Circuit -. Drive signals .-> Mech
+	Mech -. Feedback and revision .-> Golem
+	Proof -. Final trials .-> Golem
+	Proof -. Final trials .-> Circuit
+	Proof -. Final trials .-> Mech
+```
+
 ## Present Disciplines | 现行分殿
 
 | Directory | Subject | Charge |
