@@ -6,27 +6,44 @@
 
 \geometry{a4paper, top=0.4in, bottom=1in, left=1in, right=1in}
 
+% 铸灵殿配色 — 铁灰框架，琥珀关键词，石青注释
+\definecolor{ironframe}{RGB}{72,72,80}
+\definecolor{amberkey}{RGB}{180,120,20}
+\definecolor{slatecomment}{RGB}{100,115,130}
+\definecolor{runestring}{RGB}{160,82,45}
+
 \lstset{
     language=C++,
     basicstyle=\ttfamily\small,
-    keywordstyle=\color{blue},
-    commentstyle=\color{gray},
-    stringstyle=\color{orange},
+    keywordstyle=\color{amberkey}\bfseries,
+    commentstyle=\color{slatecomment}\itshape,
+    stringstyle=\color{runestring},
     numbers=left,
-    numberstyle=\tiny\color{gray},
-    frame=single,
+    numberstyle=\tiny\color{ironframe},
+    rulecolor=\color{ironframe},
+    frame=shadowbox,
+    rulesepcolor=\color{ironframe},
     breaklines=true
 }
 
-\title{整数除法与浮点除法}
-\author{GESP 2级}
+\title{整数除法与浮点除法 · 铸灵精度之道\\[4pt]
+\large Division · The Path of Precision}
+\author{铸灵殿 · 二阶学徒卷\\[2pt]
+\small Golemcraft Hall · Stage 2 Apprentice Scroll}
 \date{}
 
 \begin{document}
 
 \maketitle
 
-\section*{整数除法与浮点除法 \\ (Integer vs Floating-point Division)}
+\begin{center}
+\textit{铸灵体在分配资源时，必须明白「整除」与「精确切分」之别——\\
+一个失误可能导致构造体行为偏差。}
+\end{center}
+
+\vspace{0.5em}
+
+\section*{粗切与精切：整数除法与浮点除法 \\ (Integer vs Floating-point Division)}
 
 \begin{lstlisting}
 // 整数除法
@@ -45,22 +62,28 @@ double r4 = double(x) / y;  // 3.5
 cout << r1 << " " << r2 << " " << r3 << " " << r4 << endl;
 \end{lstlisting}
 
-\section*{词汇表 (Glossary)}
+\section*{符文词典 (Arcane Glossary)}
 
 \begin{center}
 \begin{tabular}{|l|l|p{10cm}|}
 \hline
 \textbf{英文名词} & \textbf{中文名词} & \textbf{解释} \\
 \hline
-Integer Division & 整数除法 & 两个整数相除，结果舍去小数部分，只保留整数部分。如 7 / 2 = 3。 \\
+Integer Division & 整数除法 & 两个整数相除，结果舍去小数部分，只保留整数——如同铸灵体粗切材料，碎屑被直接丢弃。如 7 / 2 = 3。 \\
 \hline
-Floating-point Division & 浮点除法 & 至少一个操作数为浮点数，结果为带小数的精确值。如 7.0 / 2 = 3.5。 \\
+Floating-point Division & 浮点除法 & 至少一个操作数为浮点数，结果为带小数的精确值——精切模式，保留每一分材料。如 7.0 / 2 = 3.5。 \\
 \hline
-Type Casting & 类型转换 & 将一种数据类型转换为另一种，如 \texttt{(double)x} 将整数 x 转为浮点数。 \\
+Type Casting & 类型转换 & 将一种符记类型转换为另一种，如 \texttt{(double)x} 将整数符记 x 转为浮点数。铸灵体借此在粗切与精切之间切换。 \\
 \hline
-Truncation & 截断 & 去掉小数部分，只保留整数部分。C++整数除法会向零截断。 \\
+Truncation & 截断 & 去掉小数部分，只保留整数部分。整数除法会向零截断，如同截去不完整的碎片。 \\
 \hline
 \end{tabular}
+\end{center}
+
+\vfill
+\begin{center}
+\textit{「不确定的度量，不过是披着数字外衣的谣言。」\\
+--- 铸灵殿度量准则}
 \end{center}
 
 \end{document}

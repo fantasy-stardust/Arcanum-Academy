@@ -6,27 +6,44 @@
 
 \geometry{a4paper, top=0.4in, bottom=1in, left=1in, right=1in}
 
+% 铸灵殿配色 — 铁灰框架，琥珀关键词，石青注释
+\definecolor{ironframe}{RGB}{72,72,80}
+\definecolor{amberkey}{RGB}{180,120,20}
+\definecolor{slatecomment}{RGB}{100,115,130}
+\definecolor{runestring}{RGB}{160,82,45}
+
 \lstset{
     language=C++,
     basicstyle=\ttfamily\small,
-    keywordstyle=\color{blue},
-    commentstyle=\color{gray},
-    stringstyle=\color{orange},
+    keywordstyle=\color{amberkey}\bfseries,
+    commentstyle=\color{slatecomment}\itshape,
+    stringstyle=\color{runestring},
     numbers=left,
-    numberstyle=\tiny\color{gray},
-    frame=single,
+    numberstyle=\tiny\color{ironframe},
+    rulecolor=\color{ironframe},
+    frame=shadowbox,
+    rulesepcolor=\color{ironframe},
     breaklines=true
 }
 
-\title{取余运算的应用}
-\author{GESP 2级}
+\title{取余运算 · 铸灵循环之术\\[4pt]
+\large Modulo · The Art of Cycles}
+\author{铸灵殿 · 二阶学徒卷\\[2pt]
+\small Golemcraft Hall · Stage 2 Apprentice Scroll}
 \date{}
 
 \begin{document}
 
 \maketitle
 
-\section*{取余运算的应用 \\ (Modulo Operation)}
+\begin{center}
+\textit{循环与周期是铸灵术的核心之一——\\
+时钟的齿轮、轮值的守卫，皆依赖取余之术。}
+\end{center}
+
+\vspace{0.5em}
+
+\section*{周期之术：取余运算的应用 \\ (Modulo Operation)}
 
 \begin{lstlisting}
 // 判断奇偶
@@ -49,22 +66,28 @@ int result = (current + hours) % 12;  // 3点（下午）
 int hour24 = (current + hours) % 24;   //24小时制 15点
 \end{lstlisting}
 
-\section*{词汇表 (Glossary)}
+\section*{符文词典 (Arcane Glossary)}
 
 \begin{center}
 \begin{tabular}{|l|l|p{10cm}|}
 \hline
 \textbf{英文名词} & \textbf{中文名词} & \textbf{解释} \\
 \hline
-Modulo & 取余 (\%) & 求两个整数相除后的余数。如 10 \% 3 = 1，余数为1。 \\
+Modulo & 取余 (\%) & 求两个整数相除后的余数。如 10 \% 3 = 1。铸灵体借此判断周期与轮转。 \\
 \hline
-Parity Check & 奇偶判断 & 通过 \texttt{n \% 2} 判断奇偶，余数为0是偶数，为1是奇数。 \\
+Parity Check & 奇偶判断 & 通过 \texttt{n \% 2} 判断奇偶，余数为0是偶数，为1是奇数——铸灵体分拣资源常用。 \\
 \hline
-Digit Extraction & 数位提取 & 通过 \texttt{num \% 10} 取个位，\texttt{num / 10 \% 10} 取十位，\texttt{num / 100 \% 10} 取百位。 \\
+Digit Extraction & 数位提取 & 通过 \texttt{num \% 10} 取个位，\texttt{num / 10 \% 10} 取十位，\texttt{num / 100 \% 10} 取百位——如同从符文石中逐层剥离铭文。 \\
 \hline
-Divisibility & 整除 & 当 \texttt{a \% b == 0} 时，称 a 能被 b 整除，余数为0。 \\
+Divisibility & 整除 & 当 \texttt{a \% b == 0} 时，称 a 能被 b 整除，余数为0——意味着分配完全，无余数残留。 \\
 \hline
 \end{tabular}
+\end{center}
+
+\vfill
+\begin{center}
+\textit{「值得信赖的工具，需被锻造两次：一次在思维中，一次在试验中。」\\
+--- 铸灵殿殿训}
 \end{center}
 
 \end{document}
