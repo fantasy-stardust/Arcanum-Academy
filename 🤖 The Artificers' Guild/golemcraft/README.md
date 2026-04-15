@@ -12,6 +12,16 @@ Golemcraft studies computation, programming, data, networks, and digital systems
 
 信息技术之学关注计算、编程、数据、网络与数字系统。它要求学徒学会拆解问题、准确命名、验证构造，并把逻辑锻造成值得信赖的工艺。
 
+## Hall Emblem | 分殿徽记
+
+The emblem of golemcraft is imagined as a half-open gear framing a suspended crystal key, crossed by three descending lines of light. The gear signifies system and structure, the key signifies access and command, and the three lines mark logic, execution, and verification.
+
+golemcraft 的分殿徽记被设定为一枚半展开齿轮，中央悬着一把晶质钥匙，外有三道垂落的光线穿过。齿轮象征系统与结构，钥匙象征访问与控制，而三道光线分别标示逻辑、运行与验证。
+
+Its heraldic colors follow the guild palette: iron gray, ember orange, and crystal cyan.
+
+其徽记配色沿用公会主色：铁灰、炉焰橙与晶青。
+
 ## What Is Studied Here | 研习内容
 
 - Computational thinking and problem decomposition 计算思维与问题拆解
