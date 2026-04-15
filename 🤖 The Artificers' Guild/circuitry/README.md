@@ -1,0 +1,40 @@
+# circuitry | 电子
+
+In this chamber, signal and current are taught to move intention through copper, crystal, and measured path.
+
+这里研习的是让信号与电流沿着铜线、晶核与精确路径传递意志的工艺。
+
+---
+
+## Hall Charge | 学科之责
+
+Circuitry studies components, circuits, sensors, control, and the ordered flow of power and signal. It teaches apprentices to read diagrams carefully, protect delicate systems, trace faults without haste, and make the unseen behavior of a device observable.
+
+电子之学关注元件、电路、传感、控制，以及电能与信号的有序流动。它要求学徒学会谨慎读图、保护精密系统、耐心追踪故障，并让装置内部那些看不见的行为变得可被观察。
+
+## Hall Emblem | 分殿徽记
+
+The emblem of circuitry is a copper ring enclosing a crystal spark, crossed by a forked trace of light. The ring signifies continuity, the spark signifies charged potential, and the trace signifies the chosen path by which signal becomes command.
+
+circuitry 的分殿徽记被设定为一枚包围晶火的铜环，其上交错着一道分岔的光痕。铜环象征回路的连续，晶火象征蓄积的势能，而光痕象征信号化为指令时所选择的路径。
+
+## What Is Studied Here | 研习内容
+
+- Components, symbols, and circuit reading 元件识别、符号系统与电路读图
+- Analog and digital basics 模拟与数字基础
+- Sensors, control, and embedded interaction 传感、控制与嵌入式交互
+- Wiring, soldering, testing, and fault tracing 接线、焊接、测试与故障排查
+
+## Suggested Holdings | 建议收录
+
+- Circuit diagrams and annotated schematics 电路图与标注原理图
+- Component notes and pin references 元件笔记与引脚参考
+- Breadboard logs and test records 面包板实验记录与测试日志
+- Fault cases and repair notes 故障案例与维修笔记
+- Small device projects and control experiments 小型装置项目与控制实验
+
+## Hall Saying | 分殿短谚
+
+What travels unseen must still leave a trace fit to read.
+
+凡于无形中流动之物，也必须留下可供阅读的痕迹。

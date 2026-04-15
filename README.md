@@ -87,7 +87,7 @@ Suggested heraldic palette:
 | 📐 The Numeromantic Conclave | Mathematics, Physics, Chemistry 数学、物理、化学 | The domain of number, law, matter, and reason. It studies the hidden structure behind patterns, motion, and transformation. 研究数字、规律、物质与理性的学派，探索现象背后的结构、运动与变化。 | A brass compass enclosing a triangle of stars. 黄铜圆规包围着一枚星辉三角。 |
 | 🌱 The Verdant Covenant | Biology 生物 | The study of life, growth, adaptation, and natural harmony. This branch listens to the logic written in living forms. 研究生命、生长、适应与自然秩序的分支，关注万物在生命形态中的规律。 | Antlers grown from intertwined vines around a seed. 藤蔓交缠而成的鹿角，中央托起种子。 |
 | 📖 The Eternal Archive | History and Geography 历史与地理 | A grand archive of time and world. It preserves memory, maps civilizations, and traces the paths of land, people, and eras. 掌管时间与世界的宏大档案馆，记录文明、地域、历史进程与人类足迹。 | An astrolabe laid over an hourglass and map lines. 星盘覆盖沙漏与地图经纬。 |
-| 🤖 The Artificers' Guild | Information Technology 信息技术 | A guild of makers, builders, and system-weavers. It transforms logic into tools, code, and crafted intelligence. 属于创造者与构筑者的公会，将逻辑转化为工具、代码与可运行的智能结构。 | A gear halo around a crystal core. 齿轮光环环绕一枚晶核。 |
+| 🤖 The Artificers' Guild | Information Technology, Electronics, Mechanics 信息技术、电子、机械 | A guild of makers, builders, and system-weavers. It transforms logic into code, circuits, mechanisms, and crafted intelligence. 属于创造者与构筑者的公会，将逻辑转化为代码、电路、机构与可运行的智能结构。 | A gear halo around a crystal core. 齿轮光环环绕一枚晶核。 |
 
 ### Order Maxims and Entrance Vows | 五大学派格言与入院誓词
 
@@ -124,6 +124,8 @@ Suggested heraldic palette:
 | chronicle-of-ages | 历史 | Civilizations, events, memory, and temporal continuity. 文明、事件、记忆与时间脉络。 |
 | astral-cartography | 地理 | Space, landscape, environment, and human-earth relations. 空间、地貌、环境与人地关系。 |
 | golemcraft | 信息技术 | Computation, digital tools, systems, and creation through code. 计算、数字工具、系统设计与代码创造。 |
+| circuitry | 电子 | Circuits, components, sensing, and the study of signal-bearing devices. 电路、元件、传感与信号装置之学。 |
+| mechanica | 机械 | Structures, transmission, motion, and the craft of dependable mechanisms. 结构、传动、运动与可靠机构之学。 |
 
 ---
 
@@ -296,7 +298,9 @@ arcanum-academy/
 │   └── astral-cartography/
 │
 └── 🤖 The Artificers' Guild/
-    └── golemcraft/
+    ├── golemcraft/
+    ├── circuitry/
+    └── mechanica/
 ```
 
 Each folder is both a practical study directory and a location within the academy's imagined world.
