@@ -45,6 +45,18 @@ Its heraldic colors follow the guild palette: iron gray, ember orange, and cryst
 - A debugging diary built from failed experiments 由失败实验整理而成的调试日志器
 - A simple automation script for organizing files 用于整理文件的简易自动化脚本
 
+## Study Path | 学习路径
+
+Apprentices in this hall usually advance from clear syntax to structured problem solving, then from small programs to systems that can be maintained and tested.
+
+本殿学徒通常先从清晰语法进入，再迈向结构化解题，随后由小程序走向可维护、可验证的系统。
+
+1. Learn basic syntax, input-output, and control flow 学习基础语法、输入输出与流程控制
+2. Practice functions, modular structure, and debugging habits 练习函数设计、模块结构与调试习惯
+3. Study data structures, algorithms, and problem decomposition 学习数据结构、算法与问题拆解
+4. Build small tools with files, automation, or simple interfaces 构建处理文件、自动化或简易界面的小工具
+5. Advance to system thinking, testing, and maintainable project structure 进阶到系统思维、测试与可维护项目结构
+
 ## Hall Rite | 分殿仪式
 
 Before a serious work is entered into the guild record, apprentices are taught the Rite of First Assembly. At the Coding Benches they name the construct, at the System Racks they trace its dependencies and behavior, and only then is it sent onward toward the Proving Chambers. In this hall, an unnamed mechanism is treated as unstable, and an untested one as unfinished.
