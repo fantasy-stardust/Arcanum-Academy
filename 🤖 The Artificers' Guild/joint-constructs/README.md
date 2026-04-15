@@ -21,6 +21,8 @@ Joint Constructs houses cross-hall builds, templates, and integration notes. It 
 | [integration-guides/code-to-circuit.md](integration-guides/code-to-circuit.md) | How logic crosses into signal. 逻辑如何跨入信号。 |
 | [integration-guides/circuit-to-mechanism.md](integration-guides/circuit-to-mechanism.md) | How signal crosses into motion. 信号如何跨入运动。 |
 | [integration-guides/feedback-loops.md](integration-guides/feedback-loops.md) | How motion returns as measurable correction. 运动如何回返为可测修正。 |
+| [study-bench-sentinel-brief.md](study-bench-sentinel-brief.md) | A compact brief for a sensor-guided bench guardian. 一份传感引导式学习台守望构造简报。 |
+| [self-return-lantern-lift-brief.md](self-return-lantern-lift-brief.md) | A compact brief for a self-returning lantern lift. 一份可自行回位的灯架升降构造简报。 |
 
 ## Yard Saying | 造物短谚
 

@@ -19,6 +19,7 @@ The guild record preserves what has been judged clear enough to teach from, reus
 | --- | --- |
 | [failure-cases/README.md](failure-cases/README.md) | Failure records that still teach. 仍具教学价值的失败记录。 |
 | [lessons-learned.md](lessons-learned.md) | Cross-hall lessons extracted from prior builds. 从过往构造中提炼出的跨分殿经验。 |
+| [lantern-gate-sentinel-proof-r1.md](lantern-gate-sentinel-proof-r1.md) | A completed proof record showing what a passing joint trial can look like. 一份完整通过记录，展示联合受试通过后的文档形态。 |
 
 ## Rule of Entry | 入档规则
 

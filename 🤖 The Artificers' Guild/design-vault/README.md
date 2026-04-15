@@ -20,6 +20,8 @@ The Design Vault keeps the guild's shared conventions for naming, interfacing, a
 | [naming-conventions.md](naming-conventions.md) | Naming patterns for constructs, modules, signals, and mechanisms. 构造物、模块、信号与机构的命名规则。 |
 | [interface-template.md](interface-template.md) | A reusable template for describing how one hall's work connects to another. 描述跨分殿连接关系的通用模板。 |
 | [apprentice-checklist.md](apprentice-checklist.md) | A readiness list before joining a cross-hall build. 参与跨分殿造物之前的准备清单。 |
+| [lantern-gate-interface-sample.md](lantern-gate-interface-sample.md) | A completed sample interface record for a three-hall construct. 一份三殿联合构造的完整接口样例。 |
+| [handoff-note-example.md](handoff-note-example.md) | A concrete example of what a handoff note should look like before proof. 一份进入受试前交接说明应有样貌的示例。 |
 
 ## Vault Use | 使用方式
 

@@ -61,6 +61,10 @@ Apprentices in this hall usually begin by learning to recognize parts and read p
 4. Add sensors, switches, and control modules to create responsive devices 引入传感器、开关与控制模块，构成可响应装置
 5. Advance to fault tracing, signal stability, and integrated small-system design 进阶到故障排查、信号稳定性与小型系统整合设计
 
+For cross-hall work, see [../design-vault/assembly-standards.md](../design-vault/assembly-standards.md), [../design-vault/handoff-note-example.md](../design-vault/handoff-note-example.md), and [../proving-chambers/test-protocols/circuit-validation.md](../proving-chambers/test-protocols/circuit-validation.md).
+
+若要参与跨分殿造物，可参看 [../design-vault/assembly-standards.md](../design-vault/assembly-standards.md)、[../design-vault/handoff-note-example.md](../design-vault/handoff-note-example.md) 与 [../proving-chambers/test-protocols/circuit-validation.md](../proving-chambers/test-protocols/circuit-validation.md)。
+
 ## Hall Rite | 分殿仪式
 
 Before a circuit is judged fit to leave the hall, apprentices perform the Rite of the Living Trace. In the Signal Rooms they follow the intended path of current and command, at the Soldering Tables they bind the chosen components into a stable body, and only afterward do they send the device onward to the Proving Chambers.
