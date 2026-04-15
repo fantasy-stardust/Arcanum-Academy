@@ -1,4 +1,4 @@
-# golem-craft | 信息技术
+# golemcraft | 信息技术
 
 This is the forge where logic is taught to take shape as language, structure, and working tool.
 
@@ -8,7 +8,7 @@ This is the forge where logic is taught to take shape as language, structure, an
 
 ## Hall Charge | 学科之责
 
-Golem Craft studies computation, programming, systems, digital tools, and the art of building with code. It values clarity, modularity, testing, and the discipline of making ideas executable.
+Golemcraft studies computation, programming, systems, digital tools, and the art of building with code. It values clarity, modularity, testing, and the discipline of making ideas executable.
 
 信息技术之学关注计算、编程、系统、数字工具与以代码建造事物的工艺。它重视清晰、模块化、验证，以及把思想变成可执行结构的能力。
 

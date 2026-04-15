@@ -123,7 +123,7 @@ Suggested heraldic palette:
 | druidic-lore | 生物 | Life systems, organisms, ecology, and inheritance. 生命系统、生物个体、生态与遗传。 |
 | chronicle-of-ages | 历史 | Civilizations, events, memory, and temporal continuity. 文明、事件、记忆与时间脉络。 |
 | astral-cartography | 地理 | Space, landscape, environment, and human-earth relations. 空间、地貌、环境与人地关系。 |
-| golem-craft | 信息技术 | Computation, digital tools, systems, and creation through code. 计算、数字工具、系统设计与代码创造。 |
+| golemcraft | 信息技术 | Computation, digital tools, systems, and creation through code. 计算、数字工具、系统设计与代码创造。 |
 
 ---
 
@@ -296,7 +296,7 @@ arcanum-academy/
 │   └── astral-cartography/
 │
 └── 🤖 The Artificers' Guild/
-    └── golem-craft/
+    └── golemcraft/
 ```
 
 Each folder is both a practical study directory and a location within the academy's imagined world.
