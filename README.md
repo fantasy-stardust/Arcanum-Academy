@@ -300,12 +300,19 @@ arcanum-academy/
 └── 🤖 The Artificers' Guild/
     ├── golemcraft/
     ├── circuitry/
-    └── mechanica/
+    ├── mechanica/
+    ├── design-vault/
+    ├── proving-chambers/
+    └── joint-constructs/
 ```
 
 Each folder is both a practical study directory and a location within the academy's imagined world.
 
 每一个目录既是实际的学习分类，也是学院地图中的一处地点。
+
+Within The Artificers' Guild, the subject halls are now reinforced by a Design Vault for shared standards, Proving Chambers for trial and record, and Joint Constructs for collaborative builds.
+
+在造机公会内部，学科分殿如今又由三处共用空间加以支撑：用于保存共用规范的 Design Vault、用于受试与归档的 Proving Chambers，以及用于协作造物的 Joint Constructs。
 
 ---
 
