@@ -120,7 +120,7 @@ Suggested heraldic palette:
 | arithmancy | 数学 | Number, structure, proof, and abstraction. 数量、结构、证明与抽象思维。 |
 | aethermancy | 物理 | Motion, force, energy, and the laws of the world. 运动、力、能量与世界运行规律。 |
 | alchemy | 化学 | Matter, reaction, composition, and transformation. 物质、反应、组成与变化。 |
-| druidic-lore | 生物 | Life systems, organisms, ecology, and inheritance. 生命系统、生物个体、生态与遗传。 |
+| sylvan-codex | 生物 | Life systems, organisms, ecology, and inheritance. 生命系统、生物个体、生态与遗传。 |
 | chronicle-of-ages | 历史 | Civilizations, events, memory, and temporal continuity. 文明、事件、记忆与时间脉络。 |
 | astral-cartography | 地理 | Space, landscape, environment, and human-earth relations. 空间、地貌、环境与人地关系。 |
 | golemcraft | 信息技术 | Computation, digital tools, systems, and creation through code. 计算、数字工具、系统设计与代码创造。 |
@@ -289,7 +289,7 @@ arcanum-academy/
 │   └── alchemy/
 │
 ├── 🌱 The Verdant Covenant/
-│   └── druidic-lore/
+│   └── sylvan-codex/
 │
 ├── 📖 The Eternal Archive/
 │   ├── chronicle-of-ages/
